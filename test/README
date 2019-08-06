@@ -1,0 +1,5 @@
+source /cvmfs/sft.cern.ch/lcg/views/LCG_96python3/x86_64-slc6-gcc8-opt/setup.sh
+g++ testExec.cxx -L/cvmfs/sft.cern.ch/lcg/views/LCG_96python3/x86_64-slc6-gcc8-opt/lib -lboost_thread -llwtnn -lboost_system -I/cvmfs/sft.cern.ch/lcg/views/LCG_96python3/x86_64-slc6-gcc8-opt/include/eigen3
+export LD_LIBRARY_PATH=/cvmfs/sft.cern.ch/lcg/views/LCG_96python3/x86_64-slc6-gcc8-opt/lib:$LD_LIBRARY_PATH
+
+
