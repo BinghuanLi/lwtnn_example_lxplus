@@ -12,7 +12,7 @@ Setting up the code
 ------------------------
 Downloading the project from github
 ```bash
-git clone git@github.com:BinghuanLi/standalone_DNN.git
+git clone git@github.com:BinghuanLi/lwtnn_example_lxplus.git
 ```
 
 Setting up the environment
