@@ -2,212 +2,212 @@
   "defaults": {},
   "inputs": [
     {
-      "name": "variable_0",
+      "name": "jet3_pt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_1",
+      "name": "jet3_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_2",
+      "name": "lep1_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_3",
+      "name": "jet2_pt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_4",
+      "name": "jet1_E",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_5",
+      "name": "jet1_pt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_6",
+      "name": "mT_lep1",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_7",
+      "name": "resTop_BDT",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_8",
+      "name": "jet4_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_9",
+      "name": "lep2_conePt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_10",
+      "name": "massL",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_11",
+      "name": "jet2_E",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_12",
+      "name": "jet1_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_13",
+      "name": "jet2_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_14",
+      "name": "jet3_E",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_15",
+      "name": "n_presel_jet",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_16",
+      "name": "jet4_E",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_17",
+      "name": "lep1_charge",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_18",
+      "name": "avg_dr_jet",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_19",
+      "name": "lep1_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_20",
+      "name": "mindr_lep2_jet",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_21",
+      "name": "nBJetLoose",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_22",
+      "name": "jet4_pt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_23",
+      "name": "n_presel_mu",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_24",
+      "name": "mindr_lep1_jet",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_25",
+      "name": "lep1_conePt",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_26",
+      "name": "lep2_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_27",
+      "name": "jet2_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_28",
+      "name": "lep2_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_29",
+      "name": "mbb",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_30",
+      "name": "lep1_E",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_31",
+      "name": "jet4_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_32",
+      "name": "nBJetMedium",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_33",
+      "name": "Hj_tagger_resTop",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_34",
+      "name": "Dilep_pdgId",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_35",
+      "name": "mT_lep2",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_36",
+      "name": "metLD",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_37",
+      "name": "jet3_phi",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_38",
+      "name": "maxeta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_39",
+      "name": "n_presel_ele",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_40",
+      "name": "jet1_eta",
       "offset": 0,
       "scale": 1
     },
     {
-      "name": "variable_41",
+      "name": "lep2_E",
       "offset": 0,
       "scale": 1
     }
@@ -5163,9 +5163,9 @@
     }
   ],
   "outputs": [
-    "ttH_node",
-    "ttJnode",
-    "ttWnode",
-    "ttZnode"
+    "predictions_ttH",
+    "predictions_ttJ",
+    "predictions_ttW",
+    "predictions_ttZ"
   ]
 }

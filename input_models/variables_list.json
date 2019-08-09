@@ -1,0 +1,220 @@
+{
+  "inputs": [
+    {
+      "name": "jet3_pt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet3_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep1_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet2_pt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet1_E",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet1_pt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "mT_lep1",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "resTop_BDT",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet4_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep2_conePt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "massL",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet2_E",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet1_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet2_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet3_E",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "n_presel_jet",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet4_E",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep1_charge",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "avg_dr_jet",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep1_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "mindr_lep2_jet",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "nBJetLoose",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet4_pt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "n_presel_mu",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "mindr_lep1_jet",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep1_conePt",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep2_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet2_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep2_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "mbb",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep1_E",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet4_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "nBJetMedium",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "Hj_tagger_resTop",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "Dilep_pdgId",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "mT_lep2",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "metLD",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet3_phi",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "maxeta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "n_presel_ele",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "jet1_eta",
+      "offset": 0,
+      "scale": 1
+    },
+    {
+      "name": "lep2_E",
+      "offset": 0,
+      "scale": 1
+    }
+  ],
+  "class_labels": [
+    "predictions_ttH",
+    "predictions_ttJ",
+    "predictions_ttW",
+    "predictions_ttZ"
+  ]
+}
